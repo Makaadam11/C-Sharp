@@ -1,0 +1,3 @@
+This is command-line interface (CLI) application written in C# 
+which will download a file (.zip, .csv, .json)  from a given URL using HTTP, 
+parse it and write to standard output result of one of two commands: count or max-age.
